@@ -1,2 +1,2 @@
 # task
-Created login and registration and Displayed user details using json-server
+Created login and registration page 
